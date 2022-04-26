@@ -1,0 +1,15 @@
+.details {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.details .ant-col div {
+  aspect-ratio: 2;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rebeccapurple;
+  color: white;
+}

@@ -1,6 +1,8 @@
+import "antd/dist/antd.css";
 import { Route, Routes } from "react-router-dom";
 import Details from "./pages/details";
 import Home from "./pages/home";
+
 function App() {
   return (
     <Routes>
